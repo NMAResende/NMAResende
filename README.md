@@ -14,7 +14,9 @@
 - 🌱 I’m currently learning basics of web and front-end development.
 
 - :computer: 
+
    * Core skills:
+   
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>
      
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
@@ -40,6 +42,8 @@
  <a href="https://www.instagram.com/nathy221/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/nathalia-marcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
 </div>
+
+- :chart_with_upwards_trend: GitHub Stats:
 
 <div>
 <a href="https://github.com/NMAResende">

@@ -3,6 +3,7 @@
 ## *Welcome* to my Github profile!
 
 - 🤔 Curiosities about me:
+
       * I’m starting in the world of programming.
       * I’m 30 years old.
       * I’m married.
@@ -31,9 +32,11 @@
                
      
    * Tools:
+   
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="60" height="60"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="60" height="60"/>
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" width="60" height="60"/>
+        
         
         
 - 📫 How to reach me:
@@ -42,6 +45,7 @@
  <a href="https://www.instagram.com/nathy221/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/nathalia-marcia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>     
 </div>
+
 
 - :chart_with_upwards_trend: GitHub Stats:
 

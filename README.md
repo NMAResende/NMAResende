@@ -2,7 +2,9 @@
 
 ## *Welcome* to my Github profile!
 
+<h3>
 - 🤔 Curiosities about me:
+     </h3>
 
       * I’m starting in the world of programming.
       * I’m 30 years old.

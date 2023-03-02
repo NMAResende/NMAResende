@@ -6,6 +6,8 @@
 - 🤔 Curiosities about me:
 
       * I’m starting in the world of programming.
+      * I'm in career transition.
+      * I have a degree in physiotherapy.
       * I’m 30 years old.
       * I’m married.
       * I have a daughter.
